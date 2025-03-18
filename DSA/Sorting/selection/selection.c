@@ -34,7 +34,7 @@ int main() {
     printf("Enter the number of elements: ");
     scanf("%d", &n);
 
-    int arr[n];
+    int arr[20];
 
     // Taking array elements input
     printf("Enter %d elements: ", n);
